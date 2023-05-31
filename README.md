@@ -7,9 +7,10 @@ In this project, I developed a game based on the popular TV game show "Wheel of 
 
 ## Key tasks and responsibilities included:
 
-Examining the provided code and JSON files to understand the existing game logic.\n
-Implementing class definitions for human and computer players, focusing on their commonalities and differences.\n
-Utilizing concepts of class definitions and inheritance to build upon the existing code structure.\n
-Strategizing game logic for different subclasses to achieve different results with the same method names, displaying a deep understanding of class inheritance.\n
-Ensuring user inputs for the human player resulted in appropriate game behavior, paralleling that of a computer character.\n
+- Examining the provided code and JSON files to understand the existing game logic.
+- Implementing class definitions for human and computer players, focusing on their commonalities and differences.
+- Utilizing concepts of class definitions and inheritance to build upon the existing code structure.
+- Strategizing game logic for different subclasses to achieve different results with the same method names, displaying a deep understanding of class inheritance.
+- Ensuring user inputs for the human player resulted in appropriate game behavior, paralleling that of a computer character.
+
 This project allowed me to showcase my ability to write clear, concise code, think strategically about class usage and inheritance, and apply a methodical approach to problem-solving. The end result was a fully functional game that could be played by both human and computer players.
